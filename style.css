@@ -15,7 +15,7 @@ body{
     align-items: center;
     justify-content: center;
     background-image: 
-    url(./images/bg-pattern-top.svg),url(images/bg-pattern-bottom.svg);
+    url(./images/bg-pattern-top.svg),url(./images/bg-pattern-bottom.svg);
     background-position:right 45vw bottom 45vh,45vw 45vh;
     background-repeat: no-repeat;
     }
